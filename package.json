@@ -1,5 +1,5 @@
 {
-  "name": "sails-azure",
+  "name": "sails-azuretables",
   "version": "0.0.9",
   "description": "Azure table adapter for waterline",
   "main": "index.js",
